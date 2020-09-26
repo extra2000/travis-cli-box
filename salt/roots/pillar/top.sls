@@ -1,0 +1,4 @@
+base:
+  '*':
+    - ruby
+    - travis-cli
