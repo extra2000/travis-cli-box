@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://github.com/extra2000/travis-cli-devbox/compare/v1.0.2...v1.0.3) (2020-09-26)
+
+
+### Maintenance
+
+* **ruby-formula:** Update from v1.0.0 to v1.0.3 ([dc7f3f2](https://github.com/extra2000/travis-cli-devbox/commit/dc7f3f2a7b0cdda2cf915b76ff2f68b73ddd7602))
+
 ### [1.0.2](https://github.com/extra2000/travis-cli-devbox/compare/v1.0.1...v1.0.2) (2020-09-26)
 
 
