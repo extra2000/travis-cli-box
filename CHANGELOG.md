@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.5](https://github.com/extra2000/travis-cli-box/compare/v1.0.4...v1.0.5) (2020-10-02)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add fix type ([26a2e4e](https://github.com/extra2000/travis-cli-box/commit/26a2e4efb21c6cb5ebbc13d3e2f166856c25c680))
+
+
+### Maintenance
+
+* **ruby-formula:** Patch updates ([f2592e1](https://github.com/extra2000/travis-cli-box/commit/f2592e1ce1ff6c01853f11677822e663f5fe37c3))
+
 ### [1.0.4](https://github.com/extra2000/travis-cli-box/compare/v1.0.3...v1.0.4) (2020-10-01)
 
 
