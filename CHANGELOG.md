@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.6](https://github.com/extra2000/travis-cli-box/compare/v1.0.5...v1.0.6) (2020-10-04)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Fix patch updates with BREAKING CHANGE doesn't trigger major release ([91556a4](https://github.com/extra2000/travis-cli-box/commit/91556a44a4363bb84dec56ca8ef6caf72109275c))
+
+
+### Maintenance
+
+* **ruby-formula:** Patch updates ([758707c](https://github.com/extra2000/travis-cli-box/commit/758707c48d217b7a45161db9f385f99be6a820fe))
+
 ### [1.0.5](https://github.com/extra2000/travis-cli-box/compare/v1.0.4...v1.0.5) (2020-10-02)
 
 
